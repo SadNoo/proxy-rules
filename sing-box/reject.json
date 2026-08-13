@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".doubleclick.net",
+        ".googleadservices.com",
+        ".googlesyndication.com",
+        ".app-measurement.com",
+        ".ads-twitter.com",
+        ".scorecardresearch.com",
+        ".umeng.com",
+        ".talkingdata.net"
+      ]
+    }
+  ]
+}

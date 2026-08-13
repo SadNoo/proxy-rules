@@ -1,0 +1,27 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".chatgpt.com",
+        ".cloudflare.com",
+        ".facebook.com",
+        ".github.com",
+        ".githubusercontent.com",
+        ".google.com",
+        ".googleapis.com",
+        ".gstatic.com",
+        ".instagram.com",
+        ".netflix.com",
+        ".openai.com",
+        ".t.me",
+        ".telegram.org",
+        ".twitter.com",
+        ".x.com",
+        ".youtu.be",
+        ".youtube.com",
+        ".googlevideo.com"
+      ]
+    }
+  ]
+}

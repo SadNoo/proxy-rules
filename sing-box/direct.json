@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".cn",
+        ".alicdn.com",
+        ".aliyun.com",
+        ".baidu.com",
+        ".bilibili.com",
+        ".douyin.com",
+        ".jd.com",
+        ".qq.com",
+        ".taobao.com",
+        ".tmall.com",
+        ".weibo.com",
+        ".weixin.qq.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.0.0.0/8",
+        "100.64.0.0/10",
+        "127.0.0.0/8",
+        "169.254.0.0/16",
+        "172.16.0.0/12",
+        "192.168.0.0/16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# 中国大陆与局域网常用直连规则
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weixin.qq.com
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
